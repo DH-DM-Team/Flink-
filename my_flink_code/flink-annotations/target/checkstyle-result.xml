@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.9">
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\docs\ConfigGroup.java">
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\docs\ConfigGroups.java">
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\docs\Documentation.java">
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\Experimental.java">
+<error line="29" severity="error" message="&lt;p&gt; 标签前应有空行。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck"/>
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\Internal.java">
+<error line="29" severity="error" message="&lt;p&gt; 标签前应有空行。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck"/>
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\Public.java">
+<error line="29" severity="error" message="&lt;p&gt; 标签前应有空行。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck"/>
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\PublicEvolving.java">
+</file>
+<file name="D:\github-code\flink-master\flink\flink-annotations\src\main\java\org\apache\flink\annotation\VisibleForTesting.java">
+</file>
+</checkstyle>
