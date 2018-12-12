@@ -16,3 +16,5 @@
 
 - ##### [【Flink源码分析】：Flink的内存管理](https://blog.csdn.net/hxcaifly/article/details/84889595)
 
+# 三. 实际应用篇
+- #####  [Flink的Yarn模式安装部署](https://blog.csdn.net/hxcaifly/article/details/84966527)
